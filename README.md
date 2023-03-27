@@ -43,6 +43,10 @@ Press A or the left arrow to turn your ship left.
 
 Press D or the right arrow to turn your ship right.
 
+Press Space or the left mouse button to shoot.
+
+CONTROLLER COMPATIBLE (I think)
+
 Use these controls to navigate through the battlefield and take down the alien forces. Good luck, captain!
 
                                  
